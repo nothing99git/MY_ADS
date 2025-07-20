@@ -1,1 +1,12 @@
-{"banner":{"img_url":"https://github.com/nothing99git/MY_ADS/blob/main/banner_ad1.png?raw=true","link":"https://www.apkpure.net/particle-names/org.particlenames.myapp/download"}}
+{
+  "apps": {
+    "particle_names": {
+      "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/banner_ad1.png?raw=true",
+      "link": "https://www.apkpure.net/particle-names/org.particlenames.myapp/download"
+    },
+    "video_to_audio": {
+      "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/banner_ad2.png?raw=true",
+      "link": "https://www.apkpure.net/particle-names/org.particlenames.myapp/download"
+    }
+  }
+}

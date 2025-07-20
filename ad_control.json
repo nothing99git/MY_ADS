@@ -1,12 +1,44 @@
 {
   "apps": {
     "particle_names": {
-      "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/banner_ad1.png?raw=true",
-      "link": "https://www.apkpure.net/particle-names/org.particlenames.myapp/download"
+      "ads": {
+        "banner_ad": {
+          "name": "Particle Banner Ad",
+          "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/banner_ad1.png?raw=true",
+          "link": "https://www.apkpure.net/particle-names/org.particlenames.myapp/download"
+        },
+        "video_ad": {
+          "name": "Particle Video Ad",
+          "video_url": "https://example.com/video_ads/particle_ad.mp4",
+          "thumbnail_url": "https://github.com/nothing99git/MY_ADS/blob/main/particle_video_thumb.png?raw=true"
+        },
+        "poster_ad": {
+          "name": "Particle Poster Ad",
+          "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/particle_poster.png?raw=true",
+          "aspect_ratio": "4:4",
+          "link": "https://www.apkpure.net/particle-names/org.particlenames.myapp/download"
+        }
+      }
     },
     "video_to_audio": {
-      "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/banner_ad2.png?raw=true",
-      "link": "https://www.apkpure.net/particle-names/org.particlenames.myapp/download"
+      "ads": {
+        "banner_ad": {
+          "name": "Video to Audio Banner",
+          "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/banner_ad2.png?raw=true",
+          "link": "https://www.apkpure.net/video-to-audio-converter/org.videotoaudio.myapp/download"
+        },
+        "video_ad": {
+          "name": "Video to Audio Promo",
+          "video_url": "https://example.com/video_ads/video2audio_ad.mp4",
+          "thumbnail_url": "https://github.com/nothing99git/MY_ADS/blob/main/video2audio_video_thumb.png?raw=true"
+        },
+        "poster_ad": {
+          "name": "Video2Audio Poster",
+          "img_url": "https://github.com/nothing99git/MY_ADS/blob/main/video2audio_poster.png?raw=true",
+          "aspect_ratio": "4:4",
+          "link": "https://www.apkpure.net/video-to-audio-converter/org.videotoaudio.myapp/download"
+        }
+      }
     }
   }
 }
